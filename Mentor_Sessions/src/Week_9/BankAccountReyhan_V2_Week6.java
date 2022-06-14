@@ -1,7 +1,5 @@
 package Week_9;
 
-import Bank_App.Client;
-
 import java.util.Scanner;
 
 public class BankAccountReyhan_V2_Week6 {

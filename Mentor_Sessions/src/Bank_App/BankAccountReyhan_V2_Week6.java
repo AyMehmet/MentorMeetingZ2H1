@@ -7,11 +7,6 @@ public class BankAccountReyhan_V2_Week6 {
 
     public static void main(String[] args) {
 
-        Client[] clientData=new Client[5];
-
-        Client client1=new Client(1, "Memo"," A","male");
-
-        clientData[0]=client1;
 
         int balance = 100;
         int password = 123;
